@@ -1,1 +1,1 @@
-if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('./sw.js', { scope: './' })})}
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('https://154.40.59.105/static/cdn/chat/dist/sw.js', { scope: 'https://154.40.59.105/static/cdn/chat/dist/' })})}
