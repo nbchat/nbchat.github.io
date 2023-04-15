@@ -1,1 +1,1 @@
-if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('https://154.40.59.105/static/cdn/freechat/dist/sw.js', { scope: 'https://154.40.59.105/static/cdn/freechat/dist/' })})}
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('https://23.224.49.110/static/cdn/freechat/dist/sw.js', { scope: 'https://23.224.49.110/static/cdn/freechat/dist/' })})}
